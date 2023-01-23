@@ -1,0 +1,8 @@
+<input type="file" id="file" />
+<label htmlFor="file">asasa</label>
+ketika mencet chose file akan membuka halama menambahkan foto atau file
+
+ <input style={{ display: "none" }} type="file" id="file" />
+ menghilangkan display secara langusung 
+
+ 
